@@ -1,0 +1,91 @@
+@media screen and (min-width: 320px) and (max-width: 767px){
+.transpla-block {
+    display: flex;
+    margin-top: 60px;
+    flex-direction: column;
+}
+.transpla-block-right-block{
+	margin-left: unset !important;
+}
+.main-doctor {
+    display: flex;
+    margin-top: 60px;
+    flex-direction: column;
+}
+.main-doctor-block-left {
+    background-color: #F9F9FF;
+    border-radius: 4px;
+    width: unset;
+    height: 161vh;
+    margin-right: unset;
+}
+span.doctor-description{
+	width: unset;
+}
+.main-doctor-block-right {
+    background-color: #F9F9FF;
+    width: unset;
+  	height: 161vh;
+    margin-top: 111px;
+}
+.warning-boxes {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.box1{
+	margin-bottom: 30px;
+}
+.warning-boxes2 {
+    display: flex;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.warning-boxes3 {
+    display: flex;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+h3.types-head{
+	font-size: 24px;
+}
+.bone-marrow-transpla {
+    color: #FFFFFF;
+    font-family: StagSans;
+    font-size: 16px;
+    line-height: 26px;
+    width: 100%;
+    /* text-align: left; */
+}
+.traspla-box{
+	width: 100%;
+}
+p.transpla{
+	width: unset;
+}
+.box-bottom-line{
+	width: unset;
+}
+.banner-hero-content{
+	justify-content: unset;
+}
+.right-side-form{
+	display: none;
+}
+h4.hero-text1 {
+    font-size: 18px !important;
+    width: 100%;
+    text-align: center;
+}
+span.haematology-oncolo{
+	width: unset;
+	text-align: center;
+}
+.banner-logo {
+    text-align: center;
+}
+}
